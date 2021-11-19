@@ -11,7 +11,7 @@
 
 # Ahora los valores a operar deben ser ingresados por
 # consola con la función "input" como se ve a continuación
-5print('Ingrese por consola el segundo número entero a opera:')
+print('Ingrese por consola el segundo número entero a opera:')
 
 numero_1 = int(input())
 
